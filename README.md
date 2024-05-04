@@ -10,4 +10,3 @@ Tento projekt se zabývá vykreslováním balistické trajektorie těles. Z pře
 - Vykreslení do grafu
 - Uložení souřadnic a rychlosti do tabulky
 - Aproximace balistické křivky podle existujících/naměřených dat
-- 
